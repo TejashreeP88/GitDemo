@@ -31,6 +31,7 @@ public class Demo {
 		//ch.get("https://sr.b2x.com/#!/login");
 		//System.out.println(ch.getTitle());
 		//System.out.println(ch.getCurrentUrl());
+//System.out.println(ch.getCurrentUrl());//System.out.println(ch.getCurrentUrl());
 	
 		
 		
